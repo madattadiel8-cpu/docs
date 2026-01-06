@@ -1,4 +1,4 @@
----
+824008085750---
 title: Enforcing policies for GitHub Actions in your enterprise
 intro: "You can enforce policies to manage how {% data variables.product.prodname_actions %} can be used within your enterprise."
 permissions: "Enterprise owners"
